@@ -1,0 +1,873 @@
+ID	population_ID	island	archipelago
+AHE_A12	AHE	Ahe	Tuamotu
+AHE_A20	AHE	Ahe	Tuamotu
+AHE_R03	AHE	Ahe	Tuamotu
+AHE_R11	AHE	Ahe	Tuamotu
+AHE_R19	AHE	Ahe	Tuamotu
+AHE_A04	AHE	Ahe	Tuamotu
+AHE_A13	AHE	Ahe	Tuamotu
+AHE_A21	AHE	Ahe	Tuamotu
+AHE_R04	AHE	Ahe	Tuamotu
+AHE_R12	AHE	Ahe	Tuamotu
+AHE_R20	AHE	Ahe	Tuamotu
+AHE_A05	AHE	Ahe	Tuamotu
+AHE_A14	AHE	Ahe	Tuamotu
+AHE_A22	AHE	Ahe	Tuamotu
+AHE_R05	AHE	Ahe	Tuamotu
+AHE_R13	AHE	Ahe	Tuamotu
+AHE_R21	AHE	Ahe	Tuamotu
+AHE_A06	AHE	Ahe	Tuamotu
+AHE_A15	AHE	Ahe	Tuamotu
+AHE_A23	AHE	Ahe	Tuamotu
+AHE_R06	AHE	Ahe	Tuamotu
+AHE_R14	AHE	Ahe	Tuamotu
+AHE_R22	AHE	Ahe	Tuamotu
+AHE_A07	AHE	Ahe	Tuamotu
+AHE_A16	AHE	Ahe	Tuamotu
+AHE_A24	AHE	Ahe	Tuamotu
+AHE_R07	AHE	Ahe	Tuamotu
+AHE_R15	AHE	Ahe	Tuamotu
+AHE_R23	AHE	Ahe	Tuamotu
+AHE_A08	AHE	Ahe	Tuamotu
+AHE_A17	AHE	Ahe	Tuamotu
+AHE_A25	AHE	Ahe	Tuamotu
+AHE_R08	AHE	Ahe	Tuamotu
+AHE_R16	AHE	Ahe	Tuamotu
+AHE_R24	AHE	Ahe	Tuamotu
+AHE_A01	AHE	Ahe	Tuamotu
+AHE_A09	AHE	Ahe	Tuamotu
+AHE_A18	AHE	Ahe	Tuamotu
+AHE_R01	AHE	Ahe	Tuamotu
+AHE_R09	AHE	Ahe	Tuamotu
+AHE_R17	AHE	Ahe	Tuamotu
+AHE_R25	AHE	Ahe	Tuamotu
+AHE_A02	AHE	Ahe	Tuamotu
+AHE_A10	AHE	Ahe	Tuamotu
+AHE_A19	AHE	Ahe	Tuamotu
+AHE_R02	AHE	Ahe	Tuamotu
+AHE_R10	AHE	Ahe	Tuamotu
+AHE_R18	AHE	Ahe	Tuamotu
+AHE_A03	AHE	Ahe	Tuamotu
+AHE_A11	AHE	Ahe	Tuamotu
+ANA_08	ANA	Anaa	Tuamotu
+ANA_24	ANA	Anaa	Tuamotu
+ANA_17	ANA	Anaa	Tuamotu
+ANA_10	ANA	Anaa	Tuamotu
+ANA_18	ANA	Anaa	Tuamotu
+ANA_26	ANA	Anaa	Tuamotu
+ANA_11	ANA	Anaa	Tuamotu
+ANA_19	ANA	Anaa	Tuamotu
+ANA_27	ANA	Anaa	Tuamotu
+ANA_12	ANA	Anaa	Tuamotu
+ANA_28	ANA	Anaa	Tuamotu
+ANA_05	ANA	Anaa	Tuamotu
+ANA_21	ANA	Anaa	Tuamotu
+ANA_29	ANA	Anaa	Tuamotu
+ANA_06	ANA	Anaa	Tuamotu
+ANA_22	ANA	Anaa	Tuamotu
+ANA_30	ANA	Anaa	Tuamotu
+ANA_15	ANA	Anaa	Tuamotu
+ANA_23	ANA	Anaa	Tuamotu
+ARA_04	ARA	Aratika	Tuamotu
+ARA_12	ARA	Aratika	Tuamotu
+ARA_20	ARA	Aratika	Tuamotu
+ARA_28	ARA	Aratika	Tuamotu
+ARA_05	ARA	Aratika	Tuamotu
+ARA_13	ARA	Aratika	Tuamotu
+ARA_21	ARA	Aratika	Tuamotu
+ARA_29	ARA	Aratika	Tuamotu
+ARA_06	ARA	Aratika	Tuamotu
+ARA_14	ARA	Aratika	Tuamotu
+ARA_22	ARA	Aratika	Tuamotu
+ARA_30	ARA	Aratika	Tuamotu
+ARA_07	ARA	Aratika	Tuamotu
+ARA_15	ARA	Aratika	Tuamotu
+ARA_23	ARA	Aratika	Tuamotu
+ARA_08	ARA	Aratika	Tuamotu
+ARA_16	ARA	Aratika	Tuamotu
+ARA_24	ARA	Aratika	Tuamotu
+ARA_32	ARA	Aratika	Tuamotu
+ARA_01	ARA	Aratika	Tuamotu
+ARA_09	ARA	Aratika	Tuamotu
+ARA_17	ARA	Aratika	Tuamotu
+ARA_25	ARA	Aratika	Tuamotu
+ARA_33	ARA	Aratika	Tuamotu
+ARA_02	ARA	Aratika	Tuamotu
+ARA_10	ARA	Aratika	Tuamotu
+ARA_18	ARA	Aratika	Tuamotu
+ARA_26	ARA	Aratika	Tuamotu
+ARA_34	ARA	Aratika	Tuamotu
+ARA_03	ARA	Aratika	Tuamotu
+ARA_11	ARA	Aratika	Tuamotu
+ARA_19	ARA	Aratika	Tuamotu
+ARA_35	ARA	Aratika	Tuamotu
+GMBW_P07	GMBW	Mangareva	Gambier
+GMBW_P15	GMBW	Mangareva	Gambier
+GMBW_C24	GMBW	Mangareva	Gambier
+GMBW_C32	GMBW	Mangareva	Gambier
+GMBW_C40	GMBW	Mangareva	Gambier
+GMBW_C48	GMBW	Mangareva	Gambier
+GMBW_P08	GMBW	Mangareva	Gambier
+GMBW_P16	GMBW	Mangareva	Gambier
+GMBW_C25	GMBW	Mangareva	Gambier
+GMBW_C41	GMBW	Mangareva	Gambier
+GMBW_C49	GMBW	Mangareva	Gambier
+GMBW_P01	GMBW	Mangareva	Gambier
+GMBW_P09	GMBW	Mangareva	Gambier
+GMBW_P17	GMBW	Mangareva	Gambier
+GMBW_C26	GMBW	Mangareva	Gambier
+GMBW_C34	GMBW	Mangareva	Gambier
+GMBW_C42	GMBW	Mangareva	Gambier
+GMBW_C50	GMBW	Mangareva	Gambier
+GMBW_P02	GMBW	Mangareva	Gambier
+GMBW_P10	GMBW	Mangareva	Gambier
+GMBW_C18	GMBW	Mangareva	Gambier
+GMBW_C27	GMBW	Mangareva	Gambier
+GMBW_C35	GMBW	Mangareva	Gambier
+GMBW_C43	GMBW	Mangareva	Gambier
+GMBW_P03	GMBW	Mangareva	Gambier
+GMBW_P11	GMBW	Mangareva	Gambier
+GMBW_C19	GMBW	Mangareva	Gambier
+GMBW_C28	GMBW	Mangareva	Gambier
+GMBW_C36	GMBW	Mangareva	Gambier
+GMBW_C44	GMBW	Mangareva	Gambier
+GMBW_P04	GMBW	Mangareva	Gambier
+GMBW_P12	GMBW	Mangareva	Gambier
+GMBW_C20	GMBW	Mangareva	Gambier
+GMBW_C29	GMBW	Mangareva	Gambier
+GMBW_C37	GMBW	Mangareva	Gambier
+GMBW_C45	GMBW	Mangareva	Gambier
+GMBW_P05	GMBW	Mangareva	Gambier
+GMBW_P13	GMBW	Mangareva	Gambier
+GMBW_C22	GMBW	Mangareva	Gambier
+GMBW_C30	GMBW	Mangareva	Gambier
+GMBW_C38	GMBW	Mangareva	Gambier
+GMBW_C46	GMBW	Mangareva	Gambier
+GMBW_P06	GMBW	Mangareva	Gambier
+GMBW_P14	GMBW	Mangareva	Gambier
+GMBW_C23	GMBW	Mangareva	Gambier
+GMBW_C31	GMBW	Mangareva	Gambier
+GMBW_C39	GMBW	Mangareva	Gambier
+GMBW_C47	GMBW	Mangareva	Gambier
+INDO_04	INDO	Indonesia	Indonesia
+INDO_05	INDO	Indonesia	Indonesia
+INDO_13	INDO	Indonesia	Indonesia
+INDO_06	INDO	Indonesia	Indonesia
+INDO_07	INDO	Indonesia	Indonesia
+INDO_15	INDO	Indonesia	Indonesia
+INDO_08	INDO	Indonesia	Indonesia
+INDO_01	INDO	Indonesia	Indonesia
+INDO_09	INDO	Indonesia	Indonesia
+INDO_02	INDO	Indonesia	Indonesia
+INDO_10	INDO	Indonesia	Indonesia
+INDO_03	INDO	Indonesia	Indonesia
+INDO_11	INDO	Indonesia	Indonesia
+INDO_19	INDO	Indonesia	Indonesia
+INDO_27	INDO	Indonesia	Indonesia
+INDO_36	INDO	Indonesia	Indonesia
+INDO_20	INDO	Indonesia	Indonesia
+INDO_28	INDO	Indonesia	Indonesia
+INDO_37	INDO	Indonesia	Indonesia
+INDO_21	INDO	Indonesia	Indonesia
+INDO_29	INDO	Indonesia	Indonesia
+INDO_38	INDO	Indonesia	Indonesia
+INDO_30	INDO	Indonesia	Indonesia
+INDO_39	INDO	Indonesia	Indonesia
+INDO_31	INDO	Indonesia	Indonesia
+INDO_16	INDO	Indonesia	Indonesia
+INDO_24	INDO	Indonesia	Indonesia
+INDO_32	INDO	Indonesia	Indonesia
+INDO_17	INDO	Indonesia	Indonesia
+INDO_26	INDO	Indonesia	Indonesia
+INDO_34	INDO	Indonesia	Indonesia
+KAT_30	KAT	Katiu	Tuamotu
+KAT_06	KAT	Katiu	Tuamotu
+KAT_14	KAT	Katiu	Tuamotu
+KAT_22	KAT	Katiu	Tuamotu
+KAT_31	KAT	Katiu	Tuamotu
+KAT_07	KAT	Katiu	Tuamotu
+KAT_15	KAT	Katiu	Tuamotu
+KAT_23	KAT	Katiu	Tuamotu
+KAT_32	KAT	Katiu	Tuamotu
+KAT_08	KAT	Katiu	Tuamotu
+KAT_16	KAT	Katiu	Tuamotu
+KAT_24	KAT	Katiu	Tuamotu
+KAT_01	KAT	Katiu	Tuamotu
+KAT_09	KAT	Katiu	Tuamotu
+KAT_17	KAT	Katiu	Tuamotu
+KAT_25	KAT	Katiu	Tuamotu
+KAT_02	KAT	Katiu	Tuamotu
+KAT_10	KAT	Katiu	Tuamotu
+KAT_18	KAT	Katiu	Tuamotu
+KAT_26	KAT	Katiu	Tuamotu
+KAT_35	KAT	Katiu	Tuamotu
+KAT_03	KAT	Katiu	Tuamotu
+KAT_11	KAT	Katiu	Tuamotu
+KAT_19	KAT	Katiu	Tuamotu
+KAT_27	KAT	Katiu	Tuamotu
+KAT_04	KAT	Katiu	Tuamotu
+KAT_12	KAT	Katiu	Tuamotu
+KAT_20	KAT	Katiu	Tuamotu
+KAT_28	KAT	Katiu	Tuamotu
+KAT_05	KAT	Katiu	Tuamotu
+KAT_13	KAT	Katiu	Tuamotu
+KAT_21	KAT	Katiu	Tuamotu
+KAT_29	KAT	Katiu	Tuamotu
+KAU_08	KAU	Kauehi	Tuamotu
+KAU_16	KAU	Kauehi	Tuamotu
+KAU_24	KAU	Kauehi	Tuamotu
+KAU_32	KAU	Kauehi	Tuamotu
+KAU_01	KAU	Kauehi	Tuamotu
+KAU_09	KAU	Kauehi	Tuamotu
+KAU_17	KAU	Kauehi	Tuamotu
+KAU_25	KAU	Kauehi	Tuamotu
+KAU_33	KAU	Kauehi	Tuamotu
+KAU_02	KAU	Kauehi	Tuamotu
+KAU_10	KAU	Kauehi	Tuamotu
+KAU_18	KAU	Kauehi	Tuamotu
+KAU_26	KAU	Kauehi	Tuamotu
+KAU_34	KAU	Kauehi	Tuamotu
+KAU_03	KAU	Kauehi	Tuamotu
+KAU_11	KAU	Kauehi	Tuamotu
+KAU_19	KAU	Kauehi	Tuamotu
+KAU_27	KAU	Kauehi	Tuamotu
+KAU_35	KAU	Kauehi	Tuamotu
+KAU_04	KAU	Kauehi	Tuamotu
+KAU_12	KAU	Kauehi	Tuamotu
+KAU_20	KAU	Kauehi	Tuamotu
+KAU_05	KAU	Kauehi	Tuamotu
+KAU_13	KAU	Kauehi	Tuamotu
+KAU_21	KAU	Kauehi	Tuamotu
+KAU_29	KAU	Kauehi	Tuamotu
+KAU_06	KAU	Kauehi	Tuamotu
+KAU_14	KAU	Kauehi	Tuamotu
+KAU_22	KAU	Kauehi	Tuamotu
+KAU_30	KAU	Kauehi	Tuamotu
+KAU_07	KAU	Kauehi	Tuamotu
+KAU_15	KAU	Kauehi	Tuamotu
+KAU_23	KAU	Kauehi	Tuamotu
+KAU_31	KAU	Kauehi	Tuamotu
+MAN_02	MAN	Manihi	Tuamotu
+MAN_10	MAN	Manihi	Tuamotu
+MAN_18	MAN	Manihi	Tuamotu
+MAN_26	MAN	Manihi	Tuamotu
+MAN_34	MAN	Manihi	Tuamotu
+MAN_03	MAN	Manihi	Tuamotu
+MAN_11	MAN	Manihi	Tuamotu
+MAN_19	MAN	Manihi	Tuamotu
+MAN_27	MAN	Manihi	Tuamotu
+MAN_35	MAN	Manihi	Tuamotu
+MAN_04	MAN	Manihi	Tuamotu
+MAN_12	MAN	Manihi	Tuamotu
+MAN_20	MAN	Manihi	Tuamotu
+MAN_28	MAN	Manihi	Tuamotu
+MAN_05	MAN	Manihi	Tuamotu
+MAN_13	MAN	Manihi	Tuamotu
+MAN_21	MAN	Manihi	Tuamotu
+MAN_29	MAN	Manihi	Tuamotu
+MAN_06	MAN	Manihi	Tuamotu
+MAN_14	MAN	Manihi	Tuamotu
+MAN_22	MAN	Manihi	Tuamotu
+MAN_30	MAN	Manihi	Tuamotu
+MAN_07	MAN	Manihi	Tuamotu
+MAN_15	MAN	Manihi	Tuamotu
+MAN_23	MAN	Manihi	Tuamotu
+MAN_31	MAN	Manihi	Tuamotu
+MAN_08	MAN	Manihi	Tuamotu
+MAN_16	MAN	Manihi	Tuamotu
+MAN_24	MAN	Manihi	Tuamotu
+MAN_32	MAN	Manihi	Tuamotu
+MAN_01	MAN	Manihi	Tuamotu
+MAN_09	MAN	Manihi	Tuamotu
+MAN_17	MAN	Manihi	Tuamotu
+MAN_25	MAN	Manihi	Tuamotu
+MAN_33	MAN	Manihi	Tuamotu
+MARS_21	MARS	Marutea Sud	Gambier
+MARS_29	MARS	Marutea Sud	Gambier
+MARS_13	MARS	Marutea Sud	Gambier
+MARS_22	MARS	Marutea Sud	Gambier
+MARS_30	MARS	Marutea Sud	Gambier
+MARS_14	MARS	Marutea Sud	Gambier
+MARS_23	MARS	Marutea Sud	Gambier
+MARS_15	MARS	Marutea Sud	Gambier
+MARS_24	MARS	Marutea Sud	Gambier
+MARS_16	MARS	Marutea Sud	Gambier
+MARS_25	MARS	Marutea Sud	Gambier
+MARS_17	MARS	Marutea Sud	Gambier
+MARS_26	MARS	Marutea Sud	Gambier
+MARS_18	MARS	Marutea Sud	Gambier
+MARS_27	MARS	Marutea Sud	Gambier
+MARS_11	MARS	Marutea Sud	Gambier
+MARS_19	MARS	Marutea Sud	Gambier
+MARS_28	MARS	Marutea Sud	Gambier
+MARS_12	MARS	Marutea Sud	Gambier
+MARS_20	MARS	Marutea Sud	Gambier
+MARS_05	MARS	Marutea Sud	Gambier
+MARS_06	MARS	Marutea Sud	Gambier
+MARS_07	MARS	Marutea Sud	Gambier
+MARS_08	MARS	Marutea Sud	Gambier
+MARS_01	MARS	Marutea Sud	Gambier
+MARS_09	MARS	Marutea Sud	Gambier
+MARS_02	MARS	Marutea Sud	Gambier
+MARS_10	MARS	Marutea Sud	Gambier
+MARS_03	MARS	Marutea Sud	Gambier
+MARS_04	MARS	Marutea Sud	Gambier
+MAT_06	MAT	Matai'utea	Gambier
+MAT_14	MAT	Matai'utea	Gambier
+MAT_22	MAT	Matai'utea	Gambier
+MAT_31	MAT	Matai'utea	Gambier
+MAT_39	MAT	Matai'utea	Gambier
+MAT_07	MAT	Matai'utea	Gambier
+MAT_15	MAT	Matai'utea	Gambier
+MAT_23	MAT	Matai'utea	Gambier
+MAT_32	MAT	Matai'utea	Gambier
+MAT_40	MAT	Matai'utea	Gambier
+MAT_08	MAT	Matai'utea	Gambier
+MAT_16	MAT	Matai'utea	Gambier
+MAT_24	MAT	Matai'utea	Gambier
+MAT_33	MAT	Matai'utea	Gambier
+MAT_01	MAT	Matai'utea	Gambier
+MAT_09	MAT	Matai'utea	Gambier
+MAT_17	MAT	Matai'utea	Gambier
+MAT_25	MAT	Matai'utea	Gambier
+MAT_34	MAT	Matai'utea	Gambier
+MAT_02	MAT	Matai'utea	Gambier
+MAT_10	MAT	Matai'utea	Gambier
+MAT_18	MAT	Matai'utea	Gambier
+MAT_26	MAT	Matai'utea	Gambier
+MAT_35	MAT	Matai'utea	Gambier
+MAT_03	MAT	Matai'utea	Gambier
+MAT_11	MAT	Matai'utea	Gambier
+MAT_19	MAT	Matai'utea	Gambier
+MAT_27	MAT	Matai'utea	Gambier
+MAT_36	MAT	Matai'utea	Gambier
+MAT_04	MAT	Matai'utea	Gambier
+MAT_12	MAT	Matai'utea	Gambier
+MAT_20	MAT	Matai'utea	Gambier
+MAT_28	MAT	Matai'utea	Gambier
+MAT_37	MAT	Matai'utea	Gambier
+MAT_05	MAT	Matai'utea	Gambier
+MAT_13	MAT	Matai'utea	Gambier
+MAT_21	MAT	Matai'utea	Gambier
+MAT_30	MAT	Matai'utea	Gambier
+MAT_38	MAT	Matai'utea	Gambier
+MOP_I03	MOP	Mop四ia	Society
+MOP_I26	MOP	Mop四ia	Society
+MOP_I34	MOP	Mop四ia	Society
+MOP_I04	MOP	Mop四ia	Society
+MOP_I27	MOP	Mop四ia	Society
+MOP_I35	MOP	Mop四ia	Society
+MOP_I05	MOP	Mop四ia	Society
+MOP_I28	MOP	Mop四ia	Society
+MOP_I36	MOP	Mop四ia	Society
+MOP_I21	MOP	Mop四ia	Society
+MOP_I29	MOP	Mop四ia	Society
+MOP_I22	MOP	Mop四ia	Society
+MOP_I30	MOP	Mop四ia	Society
+MOP_I23	MOP	Mop四ia	Society
+MOP_I31	MOP	Mop四ia	Society
+MOP_I01	MOP	Mop四ia	Society
+MOP_I24	MOP	Mop四ia	Society
+MOP_I32	MOP	Mop四ia	Society
+MOP_I02	MOP	Mop四ia	Society
+MOP_I25	MOP	Mop四ia	Society
+MOP_I33	MOP	Mop四ia	Society
+MOP_I06	MOP	Mop四ia	Society
+MOP_I14	MOP	Mop四ia	Society
+MOP_I07	MOP	Mop四ia	Society
+MOP_I15	MOP	Mop四ia	Society
+MOP_I08	MOP	Mop四ia	Society
+MOP_I16	MOP	Mop四ia	Society
+MOP_I09	MOP	Mop四ia	Society
+MOP_I17	MOP	Mop四ia	Society
+MOP_I10	MOP	Mop四ia	Society
+MOP_I18	MOP	Mop四ia	Society
+MOP_I11	MOP	Mop四ia	Society
+MOP_I19	MOP	Mop四ia	Society
+MOP_I12	MOP	Mop四ia	Society
+MOP_I20	MOP	Mop四ia	Society
+MOP_I13	MOP	Mop四ia	Society
+MOR_03	MOR	Morane	Gambier
+MOR_16	MOR	Morane	Gambier
+MOR_17	MOR	Morane	Gambier
+MOR_07	MOR	Morane	Gambier
+MOR_06	MOR	Morane	Gambier
+MOR_18	MOR	Morane	Gambier
+MOR_08	MOR	Morane	Gambier
+MOR_09	MOR	Morane	Gambier
+MOR_20	MOR	Morane	Gambier
+MOR_11	MOR	Morane	Gambier
+MOR_01	MOR	Morane	Gambier
+MOT_21-05	MOT	Motutunga	Tuamotu
+MOT_21-13	MOT	Motutunga	Tuamotu
+MOT_21-06	MOT	Motutunga	Tuamotu
+MOT_21-14	MOT	Motutunga	Tuamotu
+MOT_21-07	MOT	Motutunga	Tuamotu
+MOT_21-15	MOT	Motutunga	Tuamotu
+MOT_21-08	MOT	Motutunga	Tuamotu
+MOT_21-16	MOT	Motutunga	Tuamotu
+MOT_21-01	MOT	Motutunga	Tuamotu
+MOT_21-09	MOT	Motutunga	Tuamotu
+MOT_21-17	MOT	Motutunga	Tuamotu
+MOT_21-02	MOT	Motutunga	Tuamotu
+MOT_21-10	MOT	Motutunga	Tuamotu
+MOT_21-03	MOT	Motutunga	Tuamotu
+MOT_21-04	MOT	Motutunga	Tuamotu
+MOT_P35	MOT	Motutunga	Tuamotu
+MOT_P43	MOT	Motutunga	Tuamotu
+MOT_P36	MOT	Motutunga	Tuamotu
+MOT_P44	MOT	Motutunga	Tuamotu
+MOT_P37	MOT	Motutunga	Tuamotu
+MOT_P45	MOT	Motutunga	Tuamotu
+MOT_P38	MOT	Motutunga	Tuamotu
+MOT_P47	MOT	Motutunga	Tuamotu
+MOT_P39	MOT	Motutunga	Tuamotu
+MOT_P48	MOT	Motutunga	Tuamotu
+MOT_P32	MOT	Motutunga	Tuamotu
+MOT_P40	MOT	Motutunga	Tuamotu
+MOT_P49	MOT	Motutunga	Tuamotu
+MOT_P33	MOT	Motutunga	Tuamotu
+MOT_P41	MOT	Motutunga	Tuamotu
+MOT_P50	MOT	Motutunga	Tuamotu
+MOT_P34	MOT	Motutunga	Tuamotu
+MOT_P42	MOT	Motutunga	Tuamotu
+NHV-P_10	NHV-P	Nuku Hiva	Marquesas
+NHV-P_11	NHV-P	Nuku Hiva	Marquesas
+NHV-P_12	NHV-P	Nuku Hiva	Marquesas
+NHV-P_02	NHV-P	Nuku Hiva	Marquesas
+NHV-P_03	NHV-P	Nuku Hiva	Marquesas
+NHV-P_04	NHV-P	Nuku Hiva	Marquesas
+NHV-P_05	NHV-P	Nuku Hiva	Marquesas
+NHV-P_06	NHV-P	Nuku Hiva	Marquesas
+NHV-P_07	NHV-P	Nuku Hiva	Marquesas
+NHV-P_08	NHV-P	Nuku Hiva	Marquesas
+NHV-P_09	NHV-P	Nuku Hiva	Marquesas
+NHV-P_01	NHV-P	Nuku Hiva	Marquesas
+NHV-S_14	NHV-S	Nuku Hiva	Marquesas
+NHV-S_15	NHV-S	Nuku Hiva	Marquesas
+NHV-S_16	NHV-S	Nuku Hiva	Marquesas
+NHV-S_17	NHV-S	Nuku Hiva	Marquesas
+NHV-S_18	NHV-S	Nuku Hiva	Marquesas
+NHV-S_11	NHV-S	Nuku Hiva	Marquesas
+NHV-S_12	NHV-S	Nuku Hiva	Marquesas
+NHV-S_13	NHV-S	Nuku Hiva	Marquesas
+NHV-S_01	NHV-S	Nuku Hiva	Marquesas
+NHV-S_10	NHV-S	Nuku Hiva	Marquesas
+NHV-S_02	NHV-S	Nuku Hiva	Marquesas
+NHV-S_03	NHV-S	Nuku Hiva	Marquesas
+NHV-S_04	NHV-S	Nuku Hiva	Marquesas
+NHV-S_05	NHV-S	Nuku Hiva	Marquesas
+NHV-S_06	NHV-S	Nuku Hiva	Marquesas
+NHV-S_07	NHV-S	Nuku Hiva	Marquesas
+NHV-S_09	NHV-S	Nuku Hiva	Marquesas
+PEI_06	PEI	Peiriki	Gambier
+PEI_14	PEI	Peiriki	Gambier
+PEI_22	PEI	Peiriki	Gambier
+PEI_30	PEI	Peiriki	Gambier
+PEI_38	PEI	Peiriki	Gambier
+PEI_07	PEI	Peiriki	Gambier
+PEI_15	PEI	Peiriki	Gambier
+PEI_23	PEI	Peiriki	Gambier
+PEI_31	PEI	Peiriki	Gambier
+PEI_39	PEI	Peiriki	Gambier
+PEI_08	PEI	Peiriki	Gambier
+PEI_16	PEI	Peiriki	Gambier
+PEI_24	PEI	Peiriki	Gambier
+PEI_32	PEI	Peiriki	Gambier
+PEI_40	PEI	Peiriki	Gambier
+PEI_01	PEI	Peiriki	Gambier
+PEI_09	PEI	Peiriki	Gambier
+PEI_17	PEI	Peiriki	Gambier
+PEI_25	PEI	Peiriki	Gambier
+PEI_33	PEI	Peiriki	Gambier
+PEI_02	PEI	Peiriki	Gambier
+PEI_10	PEI	Peiriki	Gambier
+PEI_18	PEI	Peiriki	Gambier
+PEI_26	PEI	Peiriki	Gambier
+PEI_34	PEI	Peiriki	Gambier
+PEI_03	PEI	Peiriki	Gambier
+PEI_11	PEI	Peiriki	Gambier
+PEI_19	PEI	Peiriki	Gambier
+PEI_27	PEI	Peiriki	Gambier
+PEI_35	PEI	Peiriki	Gambier
+PEI_04	PEI	Peiriki	Gambier
+PEI_12	PEI	Peiriki	Gambier
+PEI_20	PEI	Peiriki	Gambier
+PEI_28	PEI	Peiriki	Gambier
+PEI_36	PEI	Peiriki	Gambier
+PEI_05	PEI	Peiriki	Gambier
+PEI_13	PEI	Peiriki	Gambier
+PEI_21	PEI	Peiriki	Gambier
+PEI_29	PEI	Peiriki	Gambier
+PEI_37	PEI	Peiriki	Gambier
+RAR_22-20	RAR	Raraka	Tuamotu
+RAR_22-07	RAR	Raraka	Tuamotu
+RAR_22-15	RAR	Raraka	Tuamotu
+RAR_22-17	RAR	Raraka	Tuamotu
+RAR_22-18	RAR	Raraka	Tuamotu
+RAR_22-29	RAR	Raraka	Tuamotu
+RAR_21-03	RAR	Raraka	Tuamotu
+RAR_21-11	RAR	Raraka	Tuamotu
+RAR_21-19	RAR	Raraka	Tuamotu
+RAR_21-27	RAR	Raraka	Tuamotu
+RAR_21-35	RAR	Raraka	Tuamotu
+RAR_21-04	RAR	Raraka	Tuamotu
+RAR_21-12	RAR	Raraka	Tuamotu
+RAR_21-20	RAR	Raraka	Tuamotu
+RAR_21-28	RAR	Raraka	Tuamotu
+RAR_21-05	RAR	Raraka	Tuamotu
+RAR_21-13	RAR	Raraka	Tuamotu
+RAR_21-29	RAR	Raraka	Tuamotu
+RAR_21-06	RAR	Raraka	Tuamotu
+RAR_21-14	RAR	Raraka	Tuamotu
+RAR_21-22	RAR	Raraka	Tuamotu
+RAR_21-30	RAR	Raraka	Tuamotu
+RAR_21-07	RAR	Raraka	Tuamotu
+RAR_21-15	RAR	Raraka	Tuamotu
+RAR_21-23	RAR	Raraka	Tuamotu
+RAR_21-31	RAR	Raraka	Tuamotu
+RAR_21-08	RAR	Raraka	Tuamotu
+RAR_21-16	RAR	Raraka	Tuamotu
+RAR_21-24	RAR	Raraka	Tuamotu
+RAR_21-32	RAR	Raraka	Tuamotu
+RAR_21-01	RAR	Raraka	Tuamotu
+RAR_21-09	RAR	Raraka	Tuamotu
+RAR_21-17	RAR	Raraka	Tuamotu
+RAR_21-25	RAR	Raraka	Tuamotu
+RAR_21-33	RAR	Raraka	Tuamotu
+RAR_21-02	RAR	Raraka	Tuamotu
+RAR_21-10	RAR	Raraka	Tuamotu
+RAR_21-18	RAR	Raraka	Tuamotu
+RAR_21-26	RAR	Raraka	Tuamotu
+RAR_21-34	RAR	Raraka	Tuamotu
+RIK_07	RIK	Rikitea	Gambier
+RIK_15	RIK	Rikitea	Gambier
+RIK_23	RIK	Rikitea	Gambier
+RIK_31	RIK	Rikitea	Gambier
+RIK_39	RIK	Rikitea	Gambier
+RIK_08	RIK	Rikitea	Gambier
+RIK_16	RIK	Rikitea	Gambier
+RIK_24	RIK	Rikitea	Gambier
+RIK_32	RIK	Rikitea	Gambier
+RIK_40	RIK	Rikitea	Gambier
+RIK_01	RIK	Rikitea	Gambier
+RIK_09	RIK	Rikitea	Gambier
+RIK_17	RIK	Rikitea	Gambier
+RIK_25	RIK	Rikitea	Gambier
+RIK_33	RIK	Rikitea	Gambier
+RIK_02	RIK	Rikitea	Gambier
+RIK_10	RIK	Rikitea	Gambier
+RIK_18	RIK	Rikitea	Gambier
+RIK_26	RIK	Rikitea	Gambier
+RIK_34	RIK	Rikitea	Gambier
+RIK_03	RIK	Rikitea	Gambier
+RIK_11	RIK	Rikitea	Gambier
+RIK_19	RIK	Rikitea	Gambier
+RIK_27	RIK	Rikitea	Gambier
+RIK_35	RIK	Rikitea	Gambier
+RIK_04	RIK	Rikitea	Gambier
+RIK_12	RIK	Rikitea	Gambier
+RIK_20	RIK	Rikitea	Gambier
+RIK_28	RIK	Rikitea	Gambier
+RIK_36	RIK	Rikitea	Gambier
+RIK_05	RIK	Rikitea	Gambier
+RIK_13	RIK	Rikitea	Gambier
+RIK_21	RIK	Rikitea	Gambier
+RIK_29	RIK	Rikitea	Gambier
+RIK_37	RIK	Rikitea	Gambier
+RIK_06	RIK	Rikitea	Gambier
+RIK_14	RIK	Rikitea	Gambier
+RIK_22	RIK	Rikitea	Gambier
+RIK_30	RIK	Rikitea	Gambier
+RIK_38	RIK	Rikitea	Gambier
+RVV_02	RVV	Raivavae	Austral
+RVV_03	RVV	Raivavae	Austral
+RVV_04	RVV	Raivavae	Austral
+RVV_05	RVV	Raivavae	Austral
+RVV_06	RVV	Raivavae	Austral
+RVV_07	RVV	Raivavae	Austral
+RVV_08	RVV	Raivavae	Austral
+RVV_01	RVV	Raivavae	Austral
+SCI_A08	SCI	Scilly	Society
+SCI_A16	SCI	Scilly	Society
+SCI_A24	SCI	Scilly	Society
+SCI_B08	SCI	Scilly	Society
+SCI_A09	SCI	Scilly	Society
+SCI_A17	SCI	Scilly	Society
+SCI_A25	SCI	Scilly	Society
+SCI_B09	SCI	Scilly	Society
+SCI_A10	SCI	Scilly	Society
+SCI_A18	SCI	Scilly	Society
+SCI_B01	SCI	Scilly	Society
+SCI_B10	SCI	Scilly	Society
+SCI_A03	SCI	Scilly	Society
+SCI_A11	SCI	Scilly	Society
+SCI_A19	SCI	Scilly	Society
+SCI_B03	SCI	Scilly	Society
+SCI_B11	SCI	Scilly	Society
+SCI_A04	SCI	Scilly	Society
+SCI_A12	SCI	Scilly	Society
+SCI_A20	SCI	Scilly	Society
+SCI_B04	SCI	Scilly	Society
+SCI_B12	SCI	Scilly	Society
+SCI_A05	SCI	Scilly	Society
+SCI_A13	SCI	Scilly	Society
+SCI_A21	SCI	Scilly	Society
+SCI_B05	SCI	Scilly	Society
+SCI_B13	SCI	Scilly	Society
+SCI_A06	SCI	Scilly	Society
+SCI_A14	SCI	Scilly	Society
+SCI_A22	SCI	Scilly	Society
+SCI_B06	SCI	Scilly	Society
+SCI_B14	SCI	Scilly	Society
+SCI_A07	SCI	Scilly	Society
+SCI_A15	SCI	Scilly	Society
+SCI_A23	SCI	Scilly	Society
+SCI_B07	SCI	Scilly	Society
+SCI_B15	SCI	Scilly	Society
+SCI_B16	SCI	Scilly	Society
+SCI_B24	SCI	Scilly	Society
+SCI_C07	SCI	Scilly	Society
+SCI_C15	SCI	Scilly	Society
+SCI_I04	SCI	Scilly	Society
+SCI_I12	SCI	Scilly	Society
+SCI_I20	SCI	Scilly	Society
+SCI_B17	SCI	Scilly	Society
+SCI_B25	SCI	Scilly	Society
+SCI_C08	SCI	Scilly	Society
+SCI_C16	SCI	Scilly	Society
+SCI_I05	SCI	Scilly	Society
+SCI_I13	SCI	Scilly	Society
+SCI_I21	SCI	Scilly	Society
+SCI_B18	SCI	Scilly	Society
+SCI_C01	SCI	Scilly	Society
+SCI_C09	SCI	Scilly	Society
+SCI_C17	SCI	Scilly	Society
+SCI_I06	SCI	Scilly	Society
+SCI_I14	SCI	Scilly	Society
+SCI_I22	SCI	Scilly	Society
+SCI_B19	SCI	Scilly	Society
+SCI_C02	SCI	Scilly	Society
+SCI_C10	SCI	Scilly	Society
+SCI_C18	SCI	Scilly	Society
+SCI_I15	SCI	Scilly	Society
+SCI_I23	SCI	Scilly	Society
+SCI_B20	SCI	Scilly	Society
+SCI_C03	SCI	Scilly	Society
+SCI_C11	SCI	Scilly	Society
+SCI_C19	SCI	Scilly	Society
+SCI_I08	SCI	Scilly	Society
+SCI_I16	SCI	Scilly	Society
+SCI_I24	SCI	Scilly	Society
+SCI_B21	SCI	Scilly	Society
+SCI_C04	SCI	Scilly	Society
+SCI_C12	SCI	Scilly	Society
+SCI_I01	SCI	Scilly	Society
+SCI_I09	SCI	Scilly	Society
+SCI_I17	SCI	Scilly	Society
+SCI_I25	SCI	Scilly	Society
+SCI_B22	SCI	Scilly	Society
+SCI_C05	SCI	Scilly	Society
+SCI_C13	SCI	Scilly	Society
+SCI_I02	SCI	Scilly	Society
+SCI_I10	SCI	Scilly	Society
+SCI_I18	SCI	Scilly	Society
+SCI_B23	SCI	Scilly	Society
+SCI_C06	SCI	Scilly	Society
+SCI_C14	SCI	Scilly	Society
+SCI_I03	SCI	Scilly	Society
+SCI_I11	SCI	Scilly	Society
+SCI_I19	SCI	Scilly	Society
+TAH_25	TAH	Tahanea	Tuamotu
+TAH_22	TAH	Tahanea	Tuamotu
+TAH_07	TAH	Tahanea	Tuamotu
+TAH_24	TAH	Tahanea	Tuamotu
+TAH_08	TAH	Tahanea	Tuamotu
+TAH_01	TAH	Tahanea	Tuamotu
+TAH_09	TAH	Tahanea	Tuamotu
+TAH_02	TAH	Tahanea	Tuamotu
+TAK_18	TAK	Takume	Tuamotu
+TAK_26	TAK	Takume	Tuamotu
+TAK_34	TAK	Takume	Tuamotu
+TAK_G02	TAK	Takume	Tuamotu
+TAK_G10	TAK	Takume	Tuamotu
+TAK_G18	TAK	Takume	Tuamotu
+TAK_R04	TAK	Takume	Tuamotu
+TAK_R12	TAK	Takume	Tuamotu
+TAK_R20	TAK	Takume	Tuamotu
+TAK_Y07	TAK	Takume	Tuamotu
+TAK_Y16	TAK	Takume	Tuamotu
+TAK_19	TAK	Takume	Tuamotu
+TAK_27	TAK	Takume	Tuamotu
+TAK_35	TAK	Takume	Tuamotu
+TAK_G03	TAK	Takume	Tuamotu
+TAK_G11	TAK	Takume	Tuamotu
+TAK_G19	TAK	Takume	Tuamotu
+TAK_R05	TAK	Takume	Tuamotu
+TAK_R13	TAK	Takume	Tuamotu
+TAK_R21	TAK	Takume	Tuamotu
+TAK_Y08	TAK	Takume	Tuamotu
+TAK_Y17	TAK	Takume	Tuamotu
+TAK_20	TAK	Takume	Tuamotu
+TAK_28	TAK	Takume	Tuamotu
+TAK_36	TAK	Takume	Tuamotu
+TAK_G04	TAK	Takume	Tuamotu
+TAK_G12	TAK	Takume	Tuamotu
+TAK_G20	TAK	Takume	Tuamotu
+TAK_R06	TAK	Takume	Tuamotu
+TAK_R14	TAK	Takume	Tuamotu
+TAK_R22	TAK	Takume	Tuamotu
+TAK_Y09	TAK	Takume	Tuamotu
+TAK_Y18	TAK	Takume	Tuamotu
+TAK_21	TAK	Takume	Tuamotu
+TAK_29	TAK	Takume	Tuamotu
+TAK_37	TAK	Takume	Tuamotu
+TAK_G05	TAK	Takume	Tuamotu
+TAK_G13	TAK	Takume	Tuamotu
+TAK_G21	TAK	Takume	Tuamotu
+TAK_R07	TAK	Takume	Tuamotu
+TAK_R15	TAK	Takume	Tuamotu
+TAK_Y01	TAK	Takume	Tuamotu
+TAK_Y10	TAK	Takume	Tuamotu
+TAK_Y19	TAK	Takume	Tuamotu
+TAK_22	TAK	Takume	Tuamotu
+TAK_30	TAK	Takume	Tuamotu
+TAK_38	TAK	Takume	Tuamotu
+TAK_G14	TAK	Takume	Tuamotu
+TAK_G22	TAK	Takume	Tuamotu
+TAK_R08	TAK	Takume	Tuamotu
+TAK_Y02	TAK	Takume	Tuamotu
+TAK_Y12	TAK	Takume	Tuamotu
+TAK_Y20	TAK	Takume	Tuamotu
+TAK_23	TAK	Takume	Tuamotu
+TAK_31	TAK	Takume	Tuamotu
+TAK_G07	TAK	Takume	Tuamotu
+TAK_R01	TAK	Takume	Tuamotu
+TAK_R09	TAK	Takume	Tuamotu
+TAK_R17	TAK	Takume	Tuamotu
+TAK_Y03	TAK	Takume	Tuamotu
+TAK_Y13	TAK	Takume	Tuamotu
+TAK_Y21	TAK	Takume	Tuamotu
+TAK_24	TAK	Takume	Tuamotu
+TAK_G08	TAK	Takume	Tuamotu
+TAK_G16	TAK	Takume	Tuamotu
+TAK_R02	TAK	Takume	Tuamotu
+TAK_R10	TAK	Takume	Tuamotu
+TAK_R18	TAK	Takume	Tuamotu
+TAK_Y04	TAK	Takume	Tuamotu
+TAK_25	TAK	Takume	Tuamotu
+TAK_33	TAK	Takume	Tuamotu
+TAK_G01	TAK	Takume	Tuamotu
+TAK_G09	TAK	Takume	Tuamotu
+TAK_G17	TAK	Takume	Tuamotu
+TAK_R03	TAK	Takume	Tuamotu
+TAK_R11	TAK	Takume	Tuamotu
+TAK_R19	TAK	Takume	Tuamotu
+TAK_Y06	TAK	Takume	Tuamotu
+TAK_Y15	TAK	Takume	Tuamotu
+TAK_03	TAK	Takume	Tuamotu
+TAK_05	TAK	Takume	Tuamotu
+TAK_13	TAK	Takume	Tuamotu
+TAK_07	TAK	Takume	Tuamotu
+TAK_15	TAK	Takume	Tuamotu
+TAK_08	TAK	Takume	Tuamotu
+TAK_16	TAK	Takume	Tuamotu
+TAK_01	TAK	Takume	Tuamotu
+TEA_01	TEA	Taenga	Tuamotu
+TEA_25	TEA	Taenga	Tuamotu
+TEA_33	TEA	Taenga	Tuamotu
+TEA_02	TEA	Taenga	Tuamotu
+TEA_26	TEA	Taenga	Tuamotu
+TEA_34	TEA	Taenga	Tuamotu
+TEA_04	TEA	Taenga	Tuamotu
+TEA_27	TEA	Taenga	Tuamotu
+TEA_35	TEA	Taenga	Tuamotu
+TEA_20	TEA	Taenga	Tuamotu
+TEA_28	TEA	Taenga	Tuamotu
+TEA_21	TEA	Taenga	Tuamotu
+TEA_29	TEA	Taenga	Tuamotu
+TEA_22	TEA	Taenga	Tuamotu
+TEA_30	TEA	Taenga	Tuamotu
+TEA_23	TEA	Taenga	Tuamotu
+TEA_31	TEA	Taenga	Tuamotu
+TEA_24	TEA	Taenga	Tuamotu
+TEA_32	TEA	Taenga	Tuamotu
+TEA_06	TEA	Taenga	Tuamotu
+TEA_14	TEA	Taenga	Tuamotu
+TEA_07	TEA	Taenga	Tuamotu
+TEA_15	TEA	Taenga	Tuamotu
+TEA_08	TEA	Taenga	Tuamotu
+TEA_16	TEA	Taenga	Tuamotu
+TEA_09	TEA	Taenga	Tuamotu
+TEA_17	TEA	Taenga	Tuamotu
+TEA_10	TEA	Taenga	Tuamotu
+TEA_18	TEA	Taenga	Tuamotu
+TEA_11	TEA	Taenga	Tuamotu
+TEA_19	TEA	Taenga	Tuamotu
+TEA_12	TEA	Taenga	Tuamotu
+TEA_05	TEA	Taenga	Tuamotu
+TEA_13	TEA	Taenga	Tuamotu
+TKP_07	TKP	Takapoto	Tuamotu
+TKP_15	TKP	Takapoto	Tuamotu
+TKP_23	TKP	Takapoto	Tuamotu
+TKP_31	TKP	Takapoto	Tuamotu
+TKP_08	TKP	Takapoto	Tuamotu
+TKP_16	TKP	Takapoto	Tuamotu
+TKP_24	TKP	Takapoto	Tuamotu
+TKP_32	TKP	Takapoto	Tuamotu
+TKP_01	TKP	Takapoto	Tuamotu
+TKP_09	TKP	Takapoto	Tuamotu
+TKP_17	TKP	Takapoto	Tuamotu
+TKP_25	TKP	Takapoto	Tuamotu
+TKP_33	TKP	Takapoto	Tuamotu
+TKP_02	TKP	Takapoto	Tuamotu
+TKP_10	TKP	Takapoto	Tuamotu
+TKP_18	TKP	Takapoto	Tuamotu
+TKP_26	TKP	Takapoto	Tuamotu
+TKP_34	TKP	Takapoto	Tuamotu
+TKP_03	TKP	Takapoto	Tuamotu
+TKP_11	TKP	Takapoto	Tuamotu
+TKP_19	TKP	Takapoto	Tuamotu
+TKP_27	TKP	Takapoto	Tuamotu
+TKP_35	TKP	Takapoto	Tuamotu
+TKP_04	TKP	Takapoto	Tuamotu
+TKP_12	TKP	Takapoto	Tuamotu
+TKP_20	TKP	Takapoto	Tuamotu
+TKP_28	TKP	Takapoto	Tuamotu
+TKP_05	TKP	Takapoto	Tuamotu
+TKP_13	TKP	Takapoto	Tuamotu
+TKP_21	TKP	Takapoto	Tuamotu
+TKP_29	TKP	Takapoto	Tuamotu
+TKP_06	TKP	Takapoto	Tuamotu
+TKP_14	TKP	Takapoto	Tuamotu
+TKP_22	TKP	Takapoto	Tuamotu
+UAH_03	UAH	Ua Huka	Marquesas
+UAH_62	UAH	Ua Huka	Marquesas
+UAH_04	UAH	Ua Huka	Marquesas
+UAH_63	UAH	Ua Huka	Marquesas
+UAH_05	UAH	Ua Huka	Marquesas
+UAH_65	UAH	Ua Huka	Marquesas
+UAH_55	UAH	Ua Huka	Marquesas
+UAH_68	UAH	Ua Huka	Marquesas
+UAH_58	UAH	Ua Huka	Marquesas
+UAH_71	UAH	Ua Huka	Marquesas
+UAH_59	UAH	Ua Huka	Marquesas
+UAH_01	UAH	Ua Huka	Marquesas
+UAH_60	UAH	Ua Huka	Marquesas
+UAH_02	UAH	Ua Huka	Marquesas
+UAH_61	UAH	Ua Huka	Marquesas
+UAH_22	UAH	Ua Huka	Marquesas
+UAH_11	UAH	Ua Huka	Marquesas
+UAH_24	UAH	Ua Huka	Marquesas
+UAH_14	UAH	Ua Huka	Marquesas
+UAH_26	UAH	Ua Huka	Marquesas
+UAH_15	UAH	Ua Huka	Marquesas
+UAH_27	UAH	Ua Huka	Marquesas
+UAH_17	UAH	Ua Huka	Marquesas
+UAH_30	UAH	Ua Huka	Marquesas
+UAH_19	UAH	Ua Huka	Marquesas
+UAH_41	UAH	Ua Huka	Marquesas
+UAH_20	UAH	Ua Huka	Marquesas
+UAH_45	UAH	Ua Huka	Marquesas
+UAH_21	UAH	Ua Huka	Marquesas
+UAH_51	UAH	Ua Huka	Marquesas
