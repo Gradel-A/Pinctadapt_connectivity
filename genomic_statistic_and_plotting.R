@@ -1,9 +1,9 @@
 library(dartR)
 library(adegenet)
 
-load("/Users/antoinegradel/Downloads/puce_filtered_hwe_genligth.Rdata")
+load("/puce_filtered_hwe_genligth.Rdata")
 
-outliers.summary <- read.table("/Users/antoinegradel/Downloads/outliers.venn.csv", sep = "\t", header = TRUE)
+outliers.summary <- read.table("/outliers.venn.csv", sep = "\t", header = TRUE)
 
 
 atleast1 <- unique(c(outliers.summary$at_least2, outliers.summary$pcadapt, outliers.summary$outflank, outliers.summary$bayescan))
@@ -48,7 +48,7 @@ write.table(metada_outliers,
             row.names = FALSE,
             quote = FALSE,
             sep = "\t",
-            file = "~/Documents_ordi/these/rédaction et soutenances/article_1/article1_run2/metadata_outliers_all.txt")
+            file = "metadata_outliers_all.txt")
 
 tuamotus <- c("AHE", "ANA", "ARA", "KAT", "KAU", "MAN", "MOT", "RAR", "TAH", "TAK", "TEA", "TKP")
 marquesas <- c("NHV-S", "NHV-P", "UAH")
@@ -186,7 +186,7 @@ cbind(het.1o$pop, het.1o$Ho, het.1o$HoSD, het.1o$He, het.1o$HeSD, het.1o$FIS)
 upperTriangle(fsto.1$Fsts) <- lowerTriangle(fsto.1$Fsts, byrow = TRUE)
 upperTriangle(fsto.1$Pvalues) <- lowerTriangle(fsto.1$Pvalues, byrow = TRUE)
 
-save(fsto.1, file = "~/Desktop/pinctadapt/article_1/fst_outlier.Rdata")
+save(fsto.1, file = "/fst_outlier.Rdata")
 
 as.data.frame(fsto.1$Fsts) -> df
 df$Colonne_ref <- colnames(df)
@@ -200,10 +200,10 @@ fsto.1arch <- gl.fst.pop(obj.glx.outliers.1.arch, verbose = 0, nboots = 999)
 het.1oarch <- gl.report.heterozygosity(obj.glx.outliers.1.arch, plot.out = FALSE)
 cbind(het.1oarch$pop, het.1oarch$Ho, het.1oarch$HoSD, het.1oarch$He, het.1oarch$HeSD, het.1oarch$FIS)
 
-save(fsto.1, file = "~/Desktop/pinctadapt/article_1/fst_outlier.Rdata")
-save(fstn.1, file = "~/Desktop/pinctadapt/article_1/fst_neutral.Rdata")
-save(fsto.1arch, file = "~/Desktop/pinctadapt/article_1/fst_outlier_arch.Rdata")
-save(fstn.1arch, file = "~/Desktop/pinctadapt/article_1/fst_neutral.arch.Rdata")
+save(fsto.1, file = "/fst_outlier.Rdata")
+save(fstn.1, file = "/fst_neutral.Rdata")
+save(fsto.1arch, file = "/fst_outlier_arch.Rdata")
+save(fstn.1arch, file = "/fst_neutral.arch.Rdata")
 
 #### focus on french polynesia ####
 obj.glx.pol <- gl.drop.pop(obj.glx, c(indo, marquesas))
@@ -231,7 +231,7 @@ ts.pol.pcadapt<-ts.pol.pcadapt[,2:ncol(ts.pol.pcadapt)]
 #load the data
 input.pcadapt.pol <- read.pcadapt(t(ts.pol.pcadapt), type = "pcadapt")
 
-save(input.pcadapt.pol, file = "/Users/antoinegradel/Downloads/input.pcadapt.pol.RData")
+save(input.pcadapt.pol, file = "/input.pcadapt.pol.RData")
 
 #perform the analyses
 x <- pcadapt(input = input.pcadapt.pol, K = 10)
@@ -261,7 +261,7 @@ par(mfrow = c(1, 1))
 
 #Write the outliers:
 PC.adapt.pol<-as.character(outliers.pcadapt.pol)
-write.table(PC.adapt.pol,"/Users/antoinegradel/Desktop/pinctadapt/article_1/outliers.pcadapt.pol.txt",quote=F,sep=",")
+write.table(PC.adapt.pol,"/outliers.pcadapt.pol.txt",quote=F,sep=",")
 
 ##now look at outflanks
 ts.pol.outflanks<-ts.pol.pcadapt
@@ -294,9 +294,9 @@ write.table(OutFlanks,"outliers.outflanks.pol.txt",quote=F,sep=",")
 
 
 ####stats on polynesia centered dataset ####
-out.bayescan.pol <- read.table("/Users/antoinegradel/Downloads/Bayescan/Polynesia/Bayescan_pol_selected_locus_id.txt", sep = "\t", header = TRUE)
-out.pcadapt.pol <- read.table("/Users/antoinegradel/Desktop/pinctadapt/article_1/outliers.pcadapt.pol.txt", header = TRUE, sep = ",")
-out.outflank.pol <- read.table("/Users/antoinegradel/Desktop/pinctadapt/article_1/outliers.outflanks.pol.txt", header = TRUE, sep = ",")
+out.bayescan.pol <- read.table("/Bayescan_pol_selected_locus_id.txt", sep = "\t", header = TRUE)
+out.pcadapt.pol <- read.table("/article_1/outliers.pcadapt.pol.txt", header = TRUE, sep = ",")
+out.outflank.pol <- read.table("/outliers.outflanks.pol.txt", header = TRUE, sep = ",")
 
 obj.glx.pol <- gl.drop.pop(obj.glx, c(indo, marquesas))
 
@@ -320,7 +320,7 @@ write.table(metada_outliers,
             row.names = FALSE,
             quote = FALSE,
             sep = "\t",
-            file = "~/Documents_ordi/these/rédaction et soutenances/article_1/article1_run2/metadata_outliers_poll.txt")
+            file = "/metadata_outliers_poll.txt")
 
 
 
@@ -518,7 +518,7 @@ save(obj.genclone.outlier.pol, file = "~/Desktop/obj.genclone.outlier.pol.RData"
 
 
 #### centrality plotting ####
-centrality <- read.table("~/Desktop/pinctadapt/article_1/centrality_data.csv", 
+centrality <- read.table("/centrality_data.csv", 
                          sep = ";", dec = ".", header = TRUE)
 centrality$Archipelago <- as.factor(centrality$Archipelago)
 centrality$sampled[centrality$sampled == ""] <- "No"
@@ -722,7 +722,7 @@ library(vegan)
 library(tidyverse)
 
 #matrix data generation
-read.table("~/Desktop/pinctadapt/metadata/gps_puce.txt", sep = "\t", header = T) -> data_gps
+read.table("/gps_puce.txt", sep = "\t", header = T) -> data_gps
 row.names(data_gps) <- data_gps$X
 data_gps <- data_gps[,2:3]
 
@@ -828,7 +828,7 @@ rep_pop_K4 <- rep(rep_pop[-1],4)
 rep_pop_K5 <- rep(rep_pop[-1],5)
 
 # read in the different admixture output files
-directory_prefix <- "~/Desktop/pinctadapt/article_1/admixture_rerun/all/neutral_dataset_all"
+directory_prefix <- "~/all/neutral_dataset_all"
 minK=1
 maxK=5
 tbl<-lapply(minK:maxK, function(x) read.table(paste0(directory_prefix,".",x,".Q")))
